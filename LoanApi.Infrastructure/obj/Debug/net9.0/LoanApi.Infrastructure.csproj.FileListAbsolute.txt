@@ -1,0 +1,38 @@
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Infrastructure.deps.json
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Infrastructure.runtimeconfig.json
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Infrastructure.dll
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Infrastructure.pdb
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Application.dll
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Domain.dll
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Application.pdb
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Domain.pdb
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.AssemblyInfo.cs
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi..E314B2E9.Up2Date
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.dll
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\obj\Debug\net9.0\refint\LoanApi.Infrastructure.dll
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.pdb
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.genruntimeconfig.cache
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Infrastructure\obj\Debug\net9.0\ref\LoanApi.Infrastructure.dll
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Infrastructure.deps.json
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Infrastructure.runtimeconfig.json
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Infrastructure.dll
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Infrastructure.pdb
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Application.dll
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Domain.dll
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Application.pdb
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\bin\Debug\net9.0\LoanApi.Domain.pdb
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.AssemblyInfo.cs
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi..E314B2E9.Up2Date
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.dll
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\obj\Debug\net9.0\refint\LoanApi.Infrastructure.dll
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.pdb
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\obj\Debug\net9.0\LoanApi.Infrastructure.genruntimeconfig.cache
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Infrastructure\obj\Debug\net9.0\ref\LoanApi.Infrastructure.dll
