@@ -1,0 +1,22 @@
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Domain\bin\Debug\net9.0\LoanApi.Domain.deps.json
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Domain\bin\Debug\net9.0\LoanApi.Domain.dll
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Domain\bin\Debug\net9.0\LoanApi.Domain.pdb
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.AssemblyInfoInputs.cache
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.AssemblyInfo.cs
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.dll
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Domain\obj\Debug\net9.0\refint\LoanApi.Domain.dll
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.pdb
+C:\Users\bsiab\.gemini\antigravity\scratch\LoanApi.Domain\obj\Debug\net9.0\ref\LoanApi.Domain.dll
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Domain\bin\Debug\net9.0\LoanApi.Domain.deps.json
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Domain\bin\Debug\net9.0\LoanApi.Domain.dll
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Domain\bin\Debug\net9.0\LoanApi.Domain.pdb
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.AssemblyInfoInputs.cache
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.AssemblyInfo.cs
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.dll
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Domain\obj\Debug\net9.0\refint\LoanApi.Domain.dll
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Domain\obj\Debug\net9.0\LoanApi.Domain.pdb
+C:\Users\bsiab\OneDrive\Desktop\LOAN API\LoanApi.Domain\obj\Debug\net9.0\ref\LoanApi.Domain.dll
